@@ -5,6 +5,8 @@ four
 eight
 thirteen
 fourteen
+seventeen
+eighteen
 fifteen
 nine
 ten
